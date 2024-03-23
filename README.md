@@ -21,7 +21,6 @@ Python
 
 
 ## Requirements
-To run tests, run the following command
 
 ```bash
 Python 3.x

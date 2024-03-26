@@ -10,7 +10,7 @@ Clone this repository to your local machine
 Navigate to the directory containing the script
 
 Run the script
-
+  
 
 ```
 

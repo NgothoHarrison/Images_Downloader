@@ -5,7 +5,7 @@ This Python script allows you to download images of a person from the internet u
 ## Usage/Examples
 
 ```javascript
-Clone this repository to your local machine
+Clone this repository to your local machine 
 
 Navigate to the directory containing the script
 

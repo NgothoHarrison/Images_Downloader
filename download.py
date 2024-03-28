@@ -40,6 +40,6 @@ def download_images(query, limit, save_directory):
 if __name__ == "__main__":
     query = input("Enter the name of the person you want to download images of: ")
     limit = 200  # Number of images to download
-    save_directory = r'C:\Users\Administrator\Desktop\Project Proposal\Trials\Nick Mwendwa'
+    save_directory = r'C:\Users\Administrator\Desktop\Project Proposal\Trials\base_folder'
 
     download_images(query, limit, save_directory)
